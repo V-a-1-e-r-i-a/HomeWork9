@@ -69,7 +69,7 @@ public class Main {
         System.out.println("Задача 4");
         for (int i = 0; i < number.length; i++) {
             if (number [i] % 2 != 0){
-                number [i] +=1;}
+                number [i] += + 1;}
             System.out.print(number[i] + ", ");
         }
     }
